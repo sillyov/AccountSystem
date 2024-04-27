@@ -1,0 +1,3 @@
+root ; toor ; admin ; 0
+NakayamaRen ; whatdoesthatmean? ; admin ; 1
+YomodaSaburo ; ruserious ; user ; 2
